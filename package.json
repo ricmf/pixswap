@@ -1,0 +1,14 @@
+{
+  "name": "pixswap",
+  "version": "0.0.1",
+  "description": "Atomic Swaps between Ethereum and the Pix system.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
